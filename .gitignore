@@ -1,0 +1,8 @@
+# data files
+mma_data/
+
+# mac OS files
+.DS_Store
+
+# juptyer notebook stuff
+.ipynb_checkpoints/
